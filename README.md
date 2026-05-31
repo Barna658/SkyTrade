@@ -1,6 +1,6 @@
 ---
 
-### Features
+## Features
 - Inspired by **Hypixel Skyblock**'s trade system.
 - **Lightweight:** Optimized for minimal memory usage.
 - Continuous bug fixes.
