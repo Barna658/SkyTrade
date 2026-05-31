@@ -1,3 +1,6 @@
+Modrinth page link:
+https://modrinth.com/plugin/skytrade
+
 ## Features
 
 - Inspired by **Hypixel Skyblock**'s trade system.
