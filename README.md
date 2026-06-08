@@ -20,3 +20,9 @@ https://modrinth.com/plugin/skytrade
 - [**Vault**](https://www.spigotmc.org/resources/vault.34315/)
 
 If you need help, feel free to join our Discord!
+
+To compile, clone this repository and run the following command:
+
+```sh
+./gradlew build
+```
