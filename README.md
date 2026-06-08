@@ -11,7 +11,7 @@ To compile this repository run the following command:
 ./gradlew build
 ```
 
-## Features
+## Info/Features
 
 - Inspired by **Hypixel Skyblock**'s trade system.
 - **Lightweight:** optimized for minimal memory usage.
