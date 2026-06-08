@@ -5,11 +5,16 @@ https://modrinth.com/plugin/skytrade
 
 SkyTrade is a trading plugin for Minecraft servers that allows players to exchange items safely and easily. It supports trade requests, customizable settings, and item restrictions to fit different server types. The plugin is designed to be lightweight, reliable, and easy to integrate into existing gameplay. Compatible with modern Paper, Purpur, and Spigot servers.
 
+## Requirements / Build Info
+
+- **Java:** 21
+- **Gradle:** 9.5.0 (via Gradle Wrapper)
+- **Paper API:** 1.21.1
+
 To compile this repository run the following command:
 
 ```sh
 ./gradlew build
-```
 
 ## Info/Features
 
