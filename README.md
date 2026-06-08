@@ -21,7 +21,7 @@ https://modrinth.com/plugin/skytrade
 
 If you need help, feel free to join our Discord!
 
-To compile, clone this repository and run the following command:
+To compile this repository run the following command:
 
 ```sh
 ./gradlew build
