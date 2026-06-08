@@ -27,7 +27,7 @@ To compile this repository run the following command:
 - Orb sizes are configurable, and the feature can be fully disabled.
 - One command: **/trade**
   - Permission: `skytrade.trade`
-- **Open Source**
+- **Open Source** (since v1.3-SNAPSHOT)
 - Community translations available on our [Discord server](https://discord.com/invite/AqjjhWjpSk).
 
 ## Dependencies
