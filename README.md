@@ -21,14 +21,14 @@ To compile this repository run the following command:
 
 ## Info/Features
 
+- One command: **/trade**  
+  - Permission: `skytrade.trade`
 - Inspired by **Hypixel Skyblock**'s trade system.
 - Continuous bug fixes.
 - Send trade requests with **Shift + Right-Click** *(toggleable)*.
 - Item **blacklisting**.
 - Money transactions: money is represented using **5 different types of orbs** with varying values.
 - Orb sizes are configurable, and the feature can be fully disabled.
-- One command: **/trade**
-  - Permission: `skytrade.trade`
 - **Open Source** (since v1.3-SNAPSHOT)
 - Community translations available on our [Discord server](https://discord.com/invite/AqjjhWjpSk).
 
