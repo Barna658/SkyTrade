@@ -12,7 +12,7 @@ SkyTrade is a trading plugin for Minecraft servers that allows players to exchan
 
 - **Java:** 21
 - **Gradle:** 9.5.0 (via Gradle Wrapper)
-- **Paper API:** 1.21.1
+- **Paper API:** 1.21.11
 
 To compile this repository run the following command:
 
