@@ -27,6 +27,7 @@ To compile this repository run the following command:
 - Continuous bug fixes.
 - Send trade requests with **Shift + Right-Click** *(toggleable)*.
 - Item **blacklisting**.
+- Every trade is automatically logged to the console.
 - Money transactions: money is represented using **5 different types of orbs** with varying values.
 - Orb sizes are configurable, and the feature can be fully disabled.
 - **Open Source** (since v1.3-SNAPSHOT)
