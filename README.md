@@ -39,7 +39,7 @@ To compile this repository run the following command:
 - Every trade is automatically logged to the console.
 - Money transactions: money is represented using 5 different types of orbs of varying values.
 - Orb sizes are configurable, and the feature can be fully disabled.
-- **Open Source** (since v1.3-SNAPSHOT)
+- **Open Source**. (since v1.3-SNAPSHOT)
 
 
 If you need help, feel free to join our Discord!
