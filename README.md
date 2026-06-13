@@ -24,21 +24,22 @@ To compile this repository run the following command:
 ./gradlew build
 ```
 
+## Dependencies
+
+- [Vault](https://www.spigotmc.org/resources/vault.34315/)
+
 ## Commands & Permissions
 
 - One command: **/trade**  
   - Permission: `skytrade.trade`
 
 ## Additional Info
+- Community translations available on our Discord server.
 - Send trade requests with **Shift + Right-Click**. (toggleable)
 - Every trade is automatically logged to the console.
 - Money transactions: money is represented using 5 different types of orbs of varying values.
 - Orb sizes are configurable, and the feature can be fully disabled.
 - **Open Source** (since v1.3-SNAPSHOT)
-- Community translations available on our [Discord server](https://discord.com/invite/AqjjhWjpSk).
 
-## Dependencies
-
-- [**Vault**](https://www.spigotmc.org/resources/vault.34315/)
 
 If you need help, feel free to join our Discord!
