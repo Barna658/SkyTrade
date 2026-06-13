@@ -42,4 +42,4 @@ To compile this repository run the following command:
 - **Open Source**. (since v1.3-SNAPSHOT)
 
 
-If you need help, feel free to join our Discord!
+If you need help, feel free to join our [Discord](https://discord.com/invite/AqjjhWjpSk)!
