@@ -3,7 +3,11 @@ https://modrinth.com/plugin/skytrade
 
 ## Introduction
 
-SkyTrade is a trading plugin for Minecraft servers that allows players to exchange items and money safely and easily. It supports trade requests, customizable settings, and item restrictions to fit different server types. The plugin is designed to be lightweight, reliable, and easy to integrate into existing gameplay. Compatible with modern Paper and Purpur servers.
+SkyTrade is a trading plugin inspired by Hypixel SkyBlock's trade system.
+
+It allows players to trade items and money safely while providing server owners with configurable settings, item blacklists, and economy integration.
+
+Compatible with modern Paper and Purpur servers.
 
 ![Trade interface](https://cdn.modrinth.com/data/cached_images/6868f620e577afa39ad49fce2e4f75819e304682_0.webp)
 *See the [gallery](https://modrinth.com/plugin/skytrade/gallery) for more screenshots.*
@@ -20,16 +24,15 @@ To compile this repository run the following command:
 ./gradlew build
 ```
 
-## Info/Features
+## Commands & Permissions
 
 - One command: **/trade**  
   - Permission: `skytrade.trade`
-- Inspired by **Hypixel Skyblock**'s trade system.
-- Continuous bug fixes.
-- Send trade requests with **Shift + Right-Click** *(toggleable)*.
-- Item **blacklisting**.
+
+## Additional Info
+- Send trade requests with **Shift + Right-Click**. (toggleable)
 - Every trade is automatically logged to the console.
-- Money transactions: money is represented using **5 different types of orbs** with varying values.
+- Money transactions: money is represented using 5 different types of orbs of varying values.
 - Orb sizes are configurable, and the feature can be fully disabled.
 - **Open Source** (since v1.3-SNAPSHOT)
 - Community translations available on our [Discord server](https://discord.com/invite/AqjjhWjpSk).
